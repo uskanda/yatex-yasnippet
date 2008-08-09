@@ -4,6 +4,7 @@ bfseries	bfs
 center	cen
 centering	cen.1
 chapter	cha
+cite cit
 description des desc
 document doc
 enumerate enu enum
