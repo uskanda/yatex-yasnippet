@@ -1,0 +1,4 @@
+#name : Xi(Caps)
+#condition :  (YaTeX-in-math-mode-p)
+# --
+\Xi $0

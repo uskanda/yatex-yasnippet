@@ -1,0 +1,4 @@
+#name : Phi(Caps)
+#condition :  (YaTeX-in-math-mode-p)
+# --
+\Phi $0

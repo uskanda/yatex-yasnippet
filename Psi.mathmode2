@@ -1,0 +1,4 @@
+#name : Psi(Caps)
+#condition :  (YaTeX-in-math-mode-p)
+# --
+\Psi $0

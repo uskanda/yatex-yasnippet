@@ -1,0 +1,4 @@
+#name : Theta(Caps)
+#condition :  (YaTeX-in-math-mode-p)
+# --
+\Theta $0
