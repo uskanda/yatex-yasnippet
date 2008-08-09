@@ -23,19 +23,21 @@ hfill hfi
 hspace hsp
 hspace\* hsp\*
 huge hug
-huge.1 hug.1
+Huge.1 Hug.1
+hugeenv hugenv
+Hugeenv.1 Hugenv.1
 indent ind
 itemize ite
 itshape its
 label lab
 large lar
-large.1 lar.1
-large.2 lar.2
+Large.1 Lar.1
+LARGE.2 LAR.2
 largeenv larenv
-largeenv.1 larenv.1
-largeenv.2 larenv.2
+Largeenv.1 Larenv.1 
+LARGEenv.2 LARenv.2
 mdseries mds
-noindent noi noind
+noindent noi noind nind
 normalsize nor
 normalsizeenv norenv
 overline ove
@@ -79,7 +81,7 @@ verbatim\* ver\*
 vfill vfi
 vspace vsp
 vspace\* vsp\*
-alpha.mathmode alp.mathmode
+alpha.mathmode alp.mathmode a-g.mathmode
 beta.mathmode bet.mathmode
 gamma.mathmode gam.mathmode
 delta.mathmode del.mathmode
@@ -90,7 +92,7 @@ iota.mathmode iot.mathmode
 kappa.mathmode kap.mathmode kapp.mathmode
 lambda.mathmode lam.mathmode lamb.mathmode lambd.mathmode
 sigma.mathmode sigm.mathmode
-upsilon.mathmode ups.mathmode.upsilon.mathmode upsi.mathmode upsil.mathmode upsilo.mathmode
+upsilon.mathmode ups.mathmode upsi.mathmode upsil.mathmode upsilo.mathmode
 omega.mathmode ome.mathmode omeg.mathmode
 varepsilon.mathmode vareps.mathmode varepsi.mathmode varepsil.mathmode varepsilo.mathmode veps.mathmode vepsi.mathmode vepsil.mathmode vepsilo.mathmode
 vartheta.mathmode varthe.mathmode varthet.mathmode vth.mathmode vthe.mathmode vthet.mathmode
@@ -116,7 +118,7 @@ iota.nonmathmode iot.nonmathmode
 kappa.nonmathmode kap.nonmathmode kapp.nonmathmode
 lambda.nonmathmode lam.nonmathmode lamb.nonmathmode lambd.nonmathmode
 sigma.nonmathmode sigm.nonmathmode
-upsilon.nonmathmode ups.nonmathmode.upsilon.nonmathmode upsi.nonmathmode upsil.nonmathmode upsilo.nonmathmode
+upsilon.nonmathmode ups.nonmathmode upsi.nonmathmode upsil.nonmathmode upsilo.nonmathmode
 omega.nonmathmode ome.nonmathmode omeg.nonmathmode
 varepsilon.nonmathmode vareps.nonmathmode varepsi.nonmathmode varepsil.nonmathmode varepsilo.nonmathmode veps.nonmathmode vepsi.nonmathmode vepsil.nonmathmode vepsilo.nonmathmode
 vartheta.nonmathmode varthe.nonmathmode varthet.nonmathmode vth.nonmathmode vthe.nonmathmode vthet.nonmathmode
@@ -131,3 +133,8 @@ Lambda.nonmathmode2 Lam.nonmathmode2 Lamb.nonmathmode2 Lambd.nonmathmode2
 Sigma.nonmathmode2 Sigm.nonmathmode2
 Upsilon.nonmathmode2 Ups.nonmathmode2 Upsi.nonmathmode2 Upsil.nonmathmode2 Upsilo.nonmathmode2
 Omega.nonmathmode2 Ome.nonmathmode2 Omeg.nonmathmode2
+partial.mathmode part.mathmode
+differential.mathmode dif.mathmode diff.mathmode differ.mathmode
+differential.nonmathmode dif.nonmathmode diff.nonmathmode differ.nonmathmode 
+partialdifferential.mathmode pdif.mathmode pdiff.mathmode pardif.mathmode pardiff.mathmode partialdif.mathmode partialdiff.mathmode
+partialdifferential.nonmathmode pdif.nonmathmode pdiff.nonmathmode pardif.nonmathmode pardiff.nonmathmode partialdif.nonmathmode partialdiff.nonmathmode
