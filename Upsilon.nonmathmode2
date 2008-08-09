@@ -1,4 +1,0 @@
-#name : Upsilon(Caps)
-#condition :  (not (YaTeX-in-math-mode-p))
-# --
-$\Upsilon$

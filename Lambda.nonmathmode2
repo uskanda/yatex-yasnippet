@@ -1,4 +1,0 @@
-#name : Lambda(Caps)
-#condition :  (not (YaTeX-in-math-mode-p))
-# --
-$\Lambda$

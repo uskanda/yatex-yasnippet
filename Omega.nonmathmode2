@@ -1,4 +1,0 @@
-#name : Omega(Caps)
-#condition :  (not (YaTeX-in-math-mode-p))
-# --
-$\Omega$
