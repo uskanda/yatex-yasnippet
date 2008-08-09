@@ -1,3 +1,4 @@
+alpha
 begin beg
 baselinestretch	bls
 bfseries	bfs
@@ -73,9 +74,61 @@ tiny tin fontsize.1tiny
 today tod
 ttfamily ttf
 underline und
-upshape ups
+upshape ups.upshape upsh upsha upshap
 verbatim ver
 verbatim\* ver\*
 vfill vfi
 vspace vsp
 vspace\* vsp\*
+alpha.mathmode alp.mathmode
+beta.mathmode bet.mathmode
+gamma.mathmode gam.mathmode
+delta.mathmode del.mathmode
+epsilon.mathmode eps.mathmode epsi.mathmode
+zeta.mathmode zet.mathmode
+theta.mathmode thet.mathmode
+iota.mathmode iot.mathmode
+kappa.mathmode kap.mathmode kapp.mathmode
+lambda.mathmode lam.mathmode lamb.mathmode lambd.mathmode
+sigma.mathmode sigm.mathmode
+upsilon.mathmode ups.mathmode.upsilon.mathmode upsi.mathmode upsil.mathmode upsilo.mathmode
+omega.mathmode ome.mathmode omeg.mathmode
+varepsilon.mathmode vareps.mathmode varepsi.mathmode varepsil.mathmode varepsilo.mathmode veps.mathmode vepsi.mathmode vepsil.mathmode vepsilo.mathmode
+vartheta.mathmode varthe.mathmode varthet.mathmode vth.mathmode vthe.mathmode vthet.mathmode
+varpi.mathmode vpi.mathmode
+varrho.mathmode varrh.mathmode vrho.mathmode vrh.mathmode
+varsigma.mathmode varsig.mathmode varsigm.mathmode vsi.mathmode vsig.mathmode vsigm.mathmode
+varphi.mathmode vphi.mathmode vph.mathmode
+Gamma.mathmode2 Gam.mathmode2 Gamm.mathmode2
+Delta.mathmode2 Del.mathmode2 Delt.mathmode2
+Theta.mathmode2 Thet.mathmode2
+Lambda.mathmode2 Lam.mathmode2 Lamb.mathmode2 Lambd.mathmode2
+Sigma.mathmode2 Sigm.mathmode2
+Upsilon.mathmode2 Ups.mathmode2 Upsi.mathmode2 Upsil.mathmode2 Upsilo.mathmode2
+Omega.mathmode2 Ome.mathmode2 Omeg.mathmode2
+alpha.nonmathmode alp.nonmathmode
+beta.nonmathmode bet.nonmathmode
+gamma.nonmathmode gam.nonmathmode
+delta.nonmathmode del.nonmathmode
+epsilon.nonmathmode eps.nonmathmode epsi.nonmathmode
+zeta.nonmathmode zet.nonmathmode
+theta.nonmathmode thet.nonmathmode
+iota.nonmathmode iot.nonmathmode
+kappa.nonmathmode kap.nonmathmode kapp.nonmathmode
+lambda.nonmathmode lam.nonmathmode lamb.nonmathmode lambd.nonmathmode
+sigma.nonmathmode sigm.nonmathmode
+upsilon.nonmathmode ups.nonmathmode.upsilon.nonmathmode upsi.nonmathmode upsil.nonmathmode upsilo.nonmathmode
+omega.nonmathmode ome.nonmathmode omeg.nonmathmode
+varepsilon.nonmathmode vareps.nonmathmode varepsi.nonmathmode varepsil.nonmathmode varepsilo.nonmathmode veps.nonmathmode vepsi.nonmathmode vepsil.nonmathmode vepsilo.nonmathmode
+vartheta.nonmathmode varthe.nonmathmode varthet.nonmathmode vth.nonmathmode vthe.nonmathmode vthet.nonmathmode
+varpi.nonmathmode vpi.nonmathmode
+varrho.nonmathmode varrh.nonmathmode vrho.nonmathmode vrh.nonmathmode
+varsigma.nonmathmode varsig.nonmathmode varsigm.nonmathmode vsi.nonmathmode vsig.nonmathmode vsigm.nonmathmode
+varphi.nonmathmode vphi.nonmathmode vph.nonmathmode
+Gamma.nonmathmode2 Gam.nonmathmode2 Gamm.nonmathmode2
+Delta.nonmathmode2 Del.nonmathmode2 Delt.nonmathmode2
+Theta.nonmathmode2 Thet.nonmathmode2
+Lambda.nonmathmode2 Lam.nonmathmode2 Lamb.nonmathmode2 Lambd.nonmathmode2
+Sigma.nonmathmode2 Sigm.nonmathmode2
+Upsilon.nonmathmode2 Ups.nonmathmode2 Upsi.nonmathmode2 Upsil.nonmathmode2 Upsilo.nonmathmode2
+Omega.nonmathmode2 Ome.nonmathmode2 Omeg.nonmathmode2
